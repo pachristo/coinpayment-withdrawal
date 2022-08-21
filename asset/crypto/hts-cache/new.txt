@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:57:50	74731/74731	---M-Z	200	added ('OK')	text/html	date:Sun,%2013%20Jun%202021%2010:56:35%20GMT	https://sacredthemes.net/coinpool/cp-platinum.html	/home/pachristo/websites/crypto/sacredthemes.net/coinpool/cp-platinum.html	(from )
+09:57:51	422/422	---M--	200	added ('OK')	text/plain	date:Tue,%2004%20Aug%202020%2004:31:20%20GMT	https://sacredthemes.net/robots.txt		(from )
